@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Amiri&family=Audiowide&family=Bowlby+One+SC&family=Lobster&family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amiri&family=Audiowide&family=Bowlby+One+SC&family=Lobster&family=Sorts+Mill+Goudy:ital@1&family=Titan+One&display=swap');
-
-
 *{
     margin: 0;
     padding: 0;
@@ -13,8 +11,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    
+    min-height: 100vh;
     color: white;
+
 }
 
 #container{
